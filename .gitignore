@@ -1,4 +1,8 @@
 *.idea
+*.iml
 *.mvn
+
 /huhavideo/mvnw
 /huhavideo/mvnw.cmd
+/huhavideo/src/test/
+/huhavideo/target/
